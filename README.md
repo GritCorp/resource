@@ -17,6 +17,7 @@ Together these two elements, text and images, complement each other and form a c
     1- 3D Geometry (Blender project file)
     3D model/environment with UV mapped media surfaces and textured scenery elements (Blender project file)
     
-    2- Video Map template file 1920x1080 (This is a PNG file to be used as reference for the UV Mapped media surfaces)
+    2- Video Map template file 1920x1080 
+    (This is a PNG file to be used as reference for the UV Mapped media surfaces)
 
 All assets share the same CC-BY-SA-4.0 license.
