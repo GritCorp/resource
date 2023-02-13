@@ -20,8 +20,9 @@ Together these two elements, text and images, complement each other and form a c
     2- Video Map template file 1920x1080 
     (This is a PNG file to be used as reference for the UV Mapped media surfaces)
 
-All assets share the same [CC-BY-SA-4.0](https://github.com/GritCorp/resource/blob/main/CC-BY-SA-4.0) license.
-Author - Gritcorp 
+All assets share the same [CC-BY-SA-4.0](https://github.com/GritCorp/resource/blob/main/CC-BY-SA-4.0) license with the following credits :
+
+Author - Gritcorp
 Title - The Resource
 [Project website : ZYA.IS](https://zya.is)
 [Project on GITHUB](https://github.com/GritCorp/resource)
