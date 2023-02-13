@@ -21,12 +21,11 @@ Together these two elements, text and images, complement each other and form a c
     (This is a PNG file to be used as reference for the UV Mapped media surfaces)
 
 All assets share the same [CC-BY-SA-4.0](https://github.com/GritCorp/resource/blob/main/CC-BY-SA-4.0) license with the following credits :
-
-  Author - Gritcorp<br/>
-  Title - The Resource<br/>
-  [Project website : ZYA.IS](https://zya.is)<br/>
-  [Project on GITHUB](https://github.com/GritCorp/resource)<br/>
-  [License](https://github.com/GritCorp/resource/blob/main/CC-BY-SA-4.0)<br/>
+     Author - Gritcorp<br/>
+     Title - The Resource<br/>
+     [Project website : ZYA.IS](https://zya.is)<br/>
+     [Project on GITHUB](https://github.com/GritCorp/resource)<br/>
+     [License](https://github.com/GritCorp/resource/blob/main/CC-BY-SA-4.0)<br/>
 
 
 
