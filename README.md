@@ -33,13 +33,11 @@ All assets share the same [CC-BY-SA-4.0](https://github.com/GritCorp/resource/bl
   [License](https://github.com/GritCorp/resource/blob/main/CC-BY-SA-4.0)
   
 
-<fragment>
-Author - Gritcorp
-Title - The Resource
-[Project website : ZYA.IS](https://zya.is)
-[Project on GITHUB](https://github.com/GritCorp/resource)
-[License](https://github.com/GritCorp/resource/blob/main/CC-BY-SA-4.0)
-</fragment>
+Author - Gritcorp<br/>
+Title - The Resource<br/>
+[Project website : ZYA.IS](https://zya.is)<br/>
+[Project on GITHUB](https://github.com/GritCorp/resource)<br/>
+[License](https://github.com/GritCorp/resource/blob/main/CC-BY-SA-4.0)<br/>
 
 
 
