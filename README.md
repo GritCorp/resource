@@ -32,7 +32,11 @@ All assets share the same [CC-BY-SA-4.0](https://github.com/GritCorp/resource/bl
   
   [License](https://github.com/GritCorp/resource/blob/main/CC-BY-SA-4.0)
   
-
+Author - Gritcorp
+jk
+kl
+ll
+py
 
 
 
