@@ -20,4 +20,4 @@ Together these two elements, text and images, complement each other and form a c
     2- Video Map template file 1920x1080 
     (This is a PNG file to be used as reference for the UV Mapped media surfaces)
 
-All assets share the same CC-BY-SA-4.0 license.
+All assets share the same [CC-BY-SA-4.0](https://github.com/GritCorp/resource/blob/main/CC-BY-SA-4.0) license.
